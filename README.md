@@ -1,2 +1,2 @@
-# movie_recommendation
-Project 3 MOVIE RECOMMENDATION
+# car_price_prediction
+Project 3 Movie Recommendation
